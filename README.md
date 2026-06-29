@@ -98,8 +98,9 @@ The spatial and temporal structure of Montclair's deer incidents supports a **la
 
 ## Project Report
 
-- 📄 **[Full Research Report — Where Deer Meet Roads](link-to-report)**
-- 📊 **[Spatial Analysis Appendix — Maps & Figures](link-to-appendix)**
+- 📄 **[Full Research Report — Where Deer Meet Roads](https://github.com/Ivan-dlpm/Montclair-Deer-Vehicle-Analysis/blob/main/Deer_Stats_Report%20(1)%20(1)%20(1).docx)**
+- 📊 **[Spatial Analysis Appendix — Maps & Figures](https://github.com/Ivan-dlpm/Montclair-Deer-Vehicle-Analysis/blob/main/Where%20Deer%20Meet%20Roads-%20A%20Five-Year%20Spatial%20and%20Temporal%20Analysis%20of%20Deer-Vehicle%20Incidents%20in%20Montclair%2C%20New%20Jersey%20(1).docx)**
+- 📊 **[Statistical Analysis Report](https://github.com/Ivan-dlpm/Montclair-Deer-Vehicle-Analysis/blob/main/Where%20Deer%20Meet%20Roads-%20Appendix%20A%20(3).pdf)**
 
 ---
 
